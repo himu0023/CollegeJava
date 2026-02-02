@@ -11,5 +11,6 @@ public class Conditional {
         } else{
             System.out.println("Fail");
         }
+        
     }
 }
